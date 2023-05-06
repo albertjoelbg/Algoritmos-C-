@@ -1,3 +1,9 @@
+/*
+ *  /\  |  _   _  ._ o _|_ ._ _   _   _
+ * /--\ | (_| (_) |  |  |_ | | | (_) _>
+ *         _|
+ */
+
 #include <iostream>
 #include <string>
 #include <math.h>
