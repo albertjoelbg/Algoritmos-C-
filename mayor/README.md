@@ -2,7 +2,7 @@
 
 ---
 
-## Dado dos números, determinar si es mayor, menor o igual.
+## Dado dos números, determinar cual es el mayor.
 
 ---
 
