@@ -1,18 +1,17 @@
-# EJEMPLOS DE ALGORITMOS ESCRITOS EN C++
-
-## _Por Alber Bonilla_.
+# Mayor o menor
 
 ---
 
-### Lista de algoritmos:
-
-1. Determinar el número mayor.
-2. Identicar sí es un número par o impar.
-3. Determinar el tipo de triángulo.
-4. Conversión de medidas métricas.
+## Dado dos números, determinar si es mayor, menor o igual.
 
 ---
 
-Recursos adicionales
+## Entrada
 
-[Aquí] (https://www.mhe.es/universidad/informatica/8448146433/archivos/c++b.pdf)
+int a, b
+
+---
+
+## Salida
+
+int c
