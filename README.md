@@ -4,7 +4,13 @@
 
 ---
 
+### Lista de algoritmos:
+
 1. Determinar el número mayor.
 2. Identicar sí es un número par o impar.
 3. Determinar el tipo de triángulo.
 4. Conversión de medidas métricas.
+
+---
+
+Recursos adicionales en: www.albertjoel.dev
