@@ -1,4 +1,4 @@
-# Mayor o menor
+# Mayor
 
 ---
 
