@@ -13,4 +13,4 @@
 
 ---
 
-Recursos adicionales en: https://www.mhe.es/universidad/informatica/8448146433/archivos/c++b.pdf
+Recursos adicionales [Aquí] (https://www.mhe.es/universidad/informatica/8448146433/archivos/c++b.pdf).
