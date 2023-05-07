@@ -15,4 +15,4 @@
 
 Recursos adicionales
 
-[Aquí]: https://www.mhe.es/universidad/informatica/8448146433/archivos/c++b.pdf
+[Aquí] (https://www.mhe.es/universidad/informatica/8448146433/archivos/c++b.pdf)
