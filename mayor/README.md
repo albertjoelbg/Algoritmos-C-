@@ -8,10 +8,12 @@
 
 ## Entrada
 
-int a, b
+`int a, b`
 
 ---
 
 ## Salida
 
+```
 int c
+```
