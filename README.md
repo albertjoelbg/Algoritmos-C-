@@ -10,6 +10,8 @@
 2. Identicar sí es un número par o impar.
 3. Determinar el tipo de triángulo.
 4. Conversión de medidas métricas.
+6. Encontrar el mayor y menor de 3 números ingresados.
+7. Sumatoria de números impares.
 
 ---
 
